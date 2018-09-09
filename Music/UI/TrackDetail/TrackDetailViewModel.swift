@@ -11,8 +11,6 @@ import UIKit
 import RxSwift
 import RxCocoa
 import Action
-import RxKingfisher
-import Kingfisher
 
 class TrackDetailViewModel: NSObject {
     

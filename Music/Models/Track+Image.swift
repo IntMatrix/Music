@@ -8,6 +8,7 @@
 
 import UIKit
 import Kingfisher
+import RxKingfisher
 import RxSwift
 
 extension Track {
